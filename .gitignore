@@ -1,0 +1,16 @@
+# Ignore challenge documentation and datasets
+challenge-brief.md
+challenge-testing-brief.md
+engagement-design.md
+engagement-research.md
+dataset/
+examples/
+judge_simulator.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
